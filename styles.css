@@ -6,3 +6,8 @@ body {
 h1 {
     color: blue;
 }
+
+.bigBlue {
+    font-size: 100px;
+    color: dodgerblue;
+}
